@@ -1,122 +1,103 @@
-Name,Email,Skill,SkillDescription,SkillRate,Salary
-Isaiah,ut.nisi@In.co.uk,Java,,7,200000
-Kylan,Quisque.porttitor.eros@lacinia.edu,Javascript,,2,
-Katelyn,Nunc.mauris.Morbi@est.ca,Javascript,,9,
-Ishmael,Lorem@idmagnaet.edu,Javascript,,8,300000
-Brynn,sit@egestas.org,TFS,,3,
-Delilah,sem.magna.nec@eutempor.org,HTML,,7,
-Indigo,blandit.congue.In@semut.com,TFS,,6,300000
-Emery,sagittis.placerat@feugiat.co.uk,Oracle,,10,400000
-Wynne,et.pede@mollis.net,Agile,,3,
-Debra,tempus@dapibusquamquis.com,HTML,,7,
-Lacey,semper@maurisSuspendissealiquet.ca,CSS,,6,
-Yolanda,ornare.egestas.ligula@dictumplacerat.ca,Scrum,,9,250000
-Yolanda,ornare.egestas.ligula@dictumplacerat.ca,Java,,7,250000
-Yolanda,ornare.egestas.ligula@dictumplacerat.ca,UML,,4,250000
-Yolanda,ornare.egestas.ligula@dictumplacerat.ca,Javascript,,5,250000
-Yolanda,ornare.egestas.ligula@dictumplacerat.ca,Oracle,,8,250000
-Skyler,lobortis.quis@Nuncsed.edu,Javascript,,7,
-Rinah,Nam.porttitor.scelerisque@a.net,Java,,4,550000
-Ocean,quis.massa.Mauris@odioEtiam.ca,UML,,10,
-Dante,velit.eu@nonjusto.co.uk,Git,,3,
-Venus,Nulla.facilisis@sitamet.edu,Javascript,,7,
-Anika,blandit.enim.consequat@eratnonummyultricies.ca,UML,,6,
-Scarlet,nisi.Cum@torquentperconubia.com,Oracle,,3,
-Tarik,egestas.a.scelerisque@tellusAenean.net,HTML,,8,550000
-Althea,tristique.pellentesque@amet.co.uk,OOP,,8,
-Mariam,amet.faucibus@Nullamvelit.ca,TFS,,3,
-Neil,Quisque.libero@aliquetvel.edu,Git,,6,200000
-Neil,Quisque.libero@aliquetvel.edu,SVN,,8,200000
-Neil,Quisque.libero@aliquetvel.edu,Agile,,9,200000
-Neil,Quisque.libero@aliquetvel.edu,SQL Server,,8,200000
-Alma,sit.amet.lorem@nequesed.com,SQL Server,,5,
-Quon,Aenean.massa.Integer@nonmassanon.net,AngularJS,,2,200000
-Lawrence,Cras.pellentesque.Sed@elitpharetra.com,AngularJS,,1,
-Nigel,eget.volutpat@ut.edu,HTML,,5,550000
-Shay,at.iaculis@nonummy.ca,TFS,,7,
-Felix,dolor@acfermentumvel.co.uk,Java,,8,250000
-Brian,et.magna@Cumsociis.net,SQL Server,,2,
-Rahim,Etiam@sapienAeneanmassa.ca,Agile,,7,
-Deborah,Phasellus.at.augue@Nuncmauris.org,SQL Server,,1,200000
-Kirsten,nunc.risus@purusDuis.net,Java,,3,
-Lavinia,sodales@sitametante.com,SVN,,9,250000
-Alisa,urna@amet.net,OOP,,5,
-Gillian,laoreet@Donecfelis.net,UML,,4,550000
-Flynn,scelerisque.neque.Nullam@quislectus.edu,Agile,,9,
-Mariam,mauris@egetmagna.edu,Design Patterns,,6,320000
-Guinevere,erat.eget@non.net,OOP,,6,300000
-Demetria,vitae.mauris@dictumplacerataugue.edu,HTML,,1,
-Allen,enim.Curabitur.massa@Nulla.co.uk,Agile,,7,
-Yael,Phasellus.in@sagittisDuisgravida.org,Javascript,,9,400000
-Yael,Phasellus.in@sagittisDuisgravida.org,HTML,,9,400000
-Yael,Phasellus.in@sagittisDuisgravida.org,CSS,,7,400000
-Yael,Phasellus.in@sagittisDuisgravida.org,Java,,6,400000
-Yael,Phasellus.in@sagittisDuisgravida.org,AngularJS,,7,400000
-Harper,euismod.et@Donecegestas.org,AngularJS,,7,320000
-Chase,amet.ultricies@Nulla.org,Design Patterns,,6,
-Dominique,et.ultrices.posuere@dui.com,Oracle,,1,400000
-Sylvester,Nam.ac@urnaetarcu.ca,Oracle,,6,300000
-Rahim,Proin.mi@nunc.co.uk,TFS,,8,
-Xerxes,odio@ligulaconsectetuerrhoncus.co.uk,Scrum,,6,400000
-Cecilia,dui@vitaeposuere.edu,Unit testing,,7,
-Sara,Maecenas@magnis.co.uk,HTML,,5,300000
-Azalia,congue.a.aliquet@Integertincidunt.org,Agile,,5,
-Dolan,Morbi.metus.Vivamus@egestasnuncsed.edu,UML,,6,400000
-Quamar,dui.nec.urna@Curabitur.co.uk,Unit testing,,3,
-Paula,blandit@vellectusCum.com,Java,,10,250000
-Dieter,enim@Quisque.ca,HTML,,1,200000
-Theodore,aptent.taciti@enimmi.net,HTML,,9,
-Hayes,sollicitudin.orci.sem@lobortismaurisSuspendisse.edu,Oracle,,6,300000
-Hayes,sollicitudin.orci.sem@lobortismaurisSuspendisse.edu,HTML,,6,300000
-Hayes,sollicitudin.orci.sem@lobortismaurisSuspendisse.edu,CSS,,6,300000
-Hayes,sollicitudin.orci.sem@lobortismaurisSuspendisse.edu,Git,,6,300000
-Arsenio,nisl@arcueuodio.edu,Design Patterns,,8,250000
-Jesse,feugiat@atpretiumaliquet.org,HTML,,5,400000
-Oprah,placerat.augue@egestasa.com,HTML,,6,320000
-Harding,Nunc@erat.edu,Agile,,2,
-Zoe,leo@montes.ca,C#,,3,
-Julie,enim@massa.co.uk,UML,,6,320000
-Rafael,vitae@non.edu,C#,,3,
-Pandora,dui@maurisMorbinon.co.uk,OOP,,9,550000
-Dane,luctus.vulputate@quamquisdiam.ca,Javascript,,1,
-Medge,lacus@eratinconsectetuer.com,Unit testing,,1,250000
-Jonas,lectus.justo@ipsumcursusvestibulum.net,SQL Server,,10,550000
-Jonas,lectus.justo@ipsumcursusvestibulum.net,Git,,10,550000
-Jonas,lectus.justo@ipsumcursusvestibulum.net,Java,,5,550000
-Jonas,lectus.justo@ipsumcursusvestibulum.net,C#,,10,550000
-Melanie,arcu.Aliquam@porttitortellus.org,Git,,6,
-Arden,lacus.Mauris.non@Aliquameratvolutpat.ca,UML,,7,550000
-Solomon,eu@necligula.edu,Scrum,,2,400000
-Stewart,et.pede.Nunc@magnaUttincidunt.org,Git,,6,
-Nevada,eu.nibh.vulputate@egetvolutpat.co.uk,Javascript,,4,
-Brendan,pharetra@Aliquamerat.edu,Unit testing,,6,
-Brock,blandit.viverra.Donec@mauriseuelit.ca,SQL Server,,7,
-Bo,vehicula.aliquet.libero@Quisque.com,AngularJS,,4,300000
-Bo,vehicula.aliquet.libero@Quisque.com,Javascript,,8,300000
-Bo,vehicula.aliquet.libero@Quisque.com,Oracle,,4,300000
-Bo,vehicula.aliquet.libero@Quisque.com,CSS,,7,300000
-Tobias,velit.in.aliquet@morbitristique.co.uk,CSS,,10,
-Nicole,eros.non.enim@commodotinciduntnibh.com,OOP,,9,
-Sebastian,non.justo.Proin@Nuncmauris.co.uk,Unit testing,,4,
-Roary,nec.malesuada@elementumpurusaccumsan.co.uk,Git,,5,300000
-Roary,nec.malesuada@elementumpurusaccumsan.co.uk,SVN,,7,300000
-Candace,iaculis.odio.Nam@eratinconsectetuer.ca,AngularJS,,3,200000
-Clark,Sed.nunc@magnisdis.co.uk,SVN,,2,400000
-Denton,Quisque@ipsum.org,Javascript,,7,400000
-Giacomo,erat.Etiam.vestibulum@nullaInteger.net,OOP,,7,
-Harlan,vel.faucibus@semperauctor.ca,Unit testing,,8,
-Keiko,imperdiet.nec@fringillami.co.uk,Git,,5,
-Priscilla,augue@etmagnisdis.org,Scrum,,3,
-Tashya,eu.odio@tellusNunc.org,Java,,7,
-Zoe,venenatis.a@odioa.ca,Git,,3,250000
-Wallace,sit.amet.ultricies@ac.org,Javascript,,9,200000
-Hop,ipsum.sodales@Integer.com,Scrum,,6,
-Cameron,libero.at@sempererat.net,Scrum,,10,400000
-Linda,at.fringilla@utipsumac.com,Unit testing,,8,200000
-Cassidy,ipsum.primis.in@arcuac.edu,AngularJS,,4,
-Aretha,Morbi.vehicula@sedorcilobortis.com,UML,,7,
-Brenna,Proin.ultrices.Duis@aenimSuspendisse.ca,SVN,,9,
-Mikayla,ultricies@vitae.co.uk,OOP,,2,
-Ray,lobortis.tellus.justo@justoeuarcu.edu,AngularJS,,6,320000
-Wilma,dolor@arcu.edu,C#,,2,
-Ramona,et.eros.Proin@uteratSed.net,SQL Server,,9,
+Name,Email,Skill,SkillDescription,SkillRate,Salary,JobTitle
+Basia,vel.arcu.Curabitur@ligulaconsectetuerrhoncus.net,Oracle,Know characteristics of Oracle DB,1,200000,Junior Tester
+Basia,vel.arcu.Curabitur@ligulaconsectetuerrhoncus.net,MySQL,Know characteristics of MySQL,8,200000,Junior Tester
+Jason,lectus@Nuncuterat.ca,Python,,1,500000,Software architect
+Garth,lorem@a.org,MS build,,3,,
+Dara,Etiam@nisidictum.co.uk,,,5,,
+Wade,massa@eu.co.uk,Grunt,,9,,
+Kasper,vel@molestieintempus.ca,Javascript,,7,,
+Dominic,posuere.enim.nisl@adipiscinglacus.edu,MS SQL,Know characteristics of MS SQL,4,,
+Neve,sollicitudin.adipiscing.ligula@ipsumleo.org,,,10,,
+Carter,adipiscing@Suspendisseeleifend.co.uk,MS SQL,Know characteristics of MS SQL,6,600000,Senior Software architect
+Mechelle,aliquam.adipiscing.lacus@iaculisaliquet.com,,,7,,
+Farrah,ut.lacus@sapien.net,,,2,,
+Riley,purus@gravida.com,,,4,500000,Software architect
+Henry,Sed.dictum.Proin@quis.ca,MS build,,6,500000,Software architect
+Carter,adipiscing@Suspendisseeleifend.co.uk,Scrum,Have experience in agile development,3,600000,Senior Software architect
+Maile,imperdiet.nec.leo@acmetus.ca,CSS,,4,200000,Junior Tester
+Benedict,lacus.varius@sodales.org,,,8,500000,Software architect
+Jin,vitae.odio.sagittis@SuspendisseduiFusce.net,,,9,,
+Zoe,pede.Cum.sociis@viverraDonec.com,Tfs,Can use Tfs,5,300000,Software Developer
+Carter,adipiscing@Suspendisseeleifend.co.uk,Git,Can use Git and know its basic commands,5,600000,Senior Software architect
+Flynn,nisl.Quisque@faucibusorciluctus.edu,,,3,,
+Harriet,ridiculus.mus@loremvehiculaet.com,Test automation,,7,,
+Noelle,Donec.non.justo@Fuscediam.org,Test automation,,7,,
+Macey,elit.Curabitur.sed@Seddictum.edu,OOP,Strong basics in Object Oriented Programming,5,,
+Zoe,pede.Cum.sociis@viverraDonec.com,Python,,1,300000,Software Developer
+Colby,vel.mauris.Integer@placerat.co.uk,HTML,,7,,
+Hedwig,leo.in.lobortis@amet.ca,HTML,,6,,
+Sybill,mattis.Cras.eget@mauris.edu,ALGOL,,8,,
+Cyrus,enim.non.nisi@pellentesque.com,,,2,,
+Hayfa,interdum.enim@indolor.org,OOP,Strong basics in Object Oriented Programming,4,,
+Octavia,Curabitur.ut@Crasvehiculaaliquet.org,Python,,3,400000,DB Admin
+Briar,Integer.eu@felisadipiscingfringilla.org,,,9,,
+Cathleen,amet.luctus.vulputate@pharetra.net,,,6,,
+Jason,fermentum@enimEtiamimperdiet.org,Grunt,,3,400000,DB Admin
+Zoe,pede.Cum.sociis@viverraDonec.com,Tfs,Can use Tfs,7,300000,Software Developer
+Zoe,pede.Cum.sociis@viverraDonec.com,Unit testing,Know unit testing theory and familiar with some testing framework,5,300000,Software Developer
+Laurel,lobortis.nisi@malesuada.net,Tfs,Can use Tfs,2,400000,DB Admin
+Ulla,nibh.Phasellus.nulla@risusDuis.net,Grunt,,3,400000,DB Admin
+Zoe,pede.Cum.sociis@viverraDonec.com,Git,Can use Git and know its basic commands,1,300000,Software Developer
+Blaze,vulputate.velit.eu@velpedeblandit.org,Tfs,Can use Tfs,5,300000,Software Developer
+Blaze,vulputate.velit.eu@velpedeblandit.org,Grunt,,7,300000,Software Developer
+Blaze,vulputate.velit.eu@velpedeblandit.org,Javascript,,8,300000,Software Developer
+Xenos,tincidunt.aliquam@porttitorvulputate.net,Grunt,,2,,
+Taylor,neque.Sed.eget@Proindolor.edu,,,10,500000,Software architect
+Basia,vel.arcu.Curabitur@ligulaconsectetuerrhoncus.net,CSS,,6,200000,Junior Tester
+Basia,vel.arcu.Curabitur@ligulaconsectetuerrhoncus.net,Tfs,,6,200000,Junior Tester
+Lyle,risus@SuspendisseeleifendCras.org,Git,Can use Git and know its basic commands,2,400000,DB Admin
+Ethan,laoreet.libero.et@nisiAeneaneget.org,,,7,,
+Byron,primis.in@cubiliaCurae.co.uk,Unit testing,Know unit testing theory and familiar with some testing framework,8,200000,Junior Tester
+Carter,adipiscing@Suspendisseeleifend.co.uk,MS build,,8,600000,Senior Software architect
+Evan,nonummy@habitantmorbi.com,Unit testing,Know unit testing theory and familiar with some testing framework,8,,
+Byron,primis.in@cubiliaCurae.co.uk,Gulp,,9,200000,Junior Tester
+Xerxes,diam.eu@sapiencursus.net,MS build,,3,400000,DB Admin
+Keaton,nec@In.co.uk,,,2,,
+Galvin,quis@commodohendrerit.edu,,,9,200000,Junior Tester
+Byron,primis.in@cubiliaCurae.co.uk,Grunt,,7,200000,Junior Tester
+Dorothy,non.enim@Maurismagna.ca,MS build,,6,600000,Senior Software architect
+Griffith,Nam@pellentesqueSed.com,OOP,Strong basics in Object Oriented Programming,2,,
+Drew,lectus@mattisCras.ca,,,7,400000,DB Admin
+Neil,ac.tellus.Suspendisse@aduiCras.edu,C#,Understand .NET and familiar with C#,3,600000,Senior Software architect
+Taylor,neque.Sed.eget@Proindolor.edu,Python,,3,600000,Senior Software architect
+Taylor,neque.Sed.eget@Proindolor.edu,UML,,10,600000,Senior Software architect
+Alisa,vitae@bibendumDonecfelis.net,,,9,,
+Kaye,vestibulum.neque@Morbinonsapien.ca,,,2,,
+Carson,elit.sed@Crasdolor.com,Grunt,,9,,
+Echo,eget.dictum@Sedpharetrafelis.edu,Javascript,,7,,
+Eliana,ligula.consectetuer.rhoncus@arcuVivamus.net,MS SQL,Know characteristics of MS SQL,4,400000,DB Admin
+Maris,vitae@enimcondimentumeget.org,,,10,200000,Junior Tester
+Anjolie,consectetuer@sapienmolestieorci.com,,,1,,
+Kalia,condimentum.eget.volutpat@rutrumjusto.ca,OOP,Strong basics in Object Oriented Programming,6,,
+Rylee,Proin@malesuadaiderat.org,,,4,,
+Hollee,tincidunt.Donec.vitae@sapien.edu,Javascript,,3,300000,Software Developer
+Davis,imperdiet@duiFusce.com,Scrum,Have experience in agile development,4,200000,Junior Tester
+Stone,Duis.mi.enim@ipsum.co.uk,Grunt,,6,600000,Senior Software architect
+Daryl,dui@parturientmontes.org,CSS,,8,500000,Software architect
+Sade,vel.sapien@scelerisquemollisPhasellus.net,Java,Know Java basics til Java 8,2,600000,Senior Software architect
+Cameron,arcu@tacitisociosquad.co.uk,HTML,,6,600000,Senior Software architect
+Mira,interdum.feugiat@utpellentesque.ca,Javascript,,7,600000,Senior Software architect
+Lacota,cursus.et.eros@risusNullaeget.net,OOP,Strong basics in Object Oriented Programming,8,,
+Camille,sit.amet.ultricies@quam.org,MS build,,7,500000,Software architect
+Jack,non.feugiat.nec@diamnuncullamcorper.net,OOP,Strong basics in Object Oriented Programming,5,,
+Rhiannon,facilisis@in.edu,MySQL,Know characteristics of MySQL,6,,
+Geraldine,Praesent.eu@gravidanunc.net,,,8,,
+Tamara,lectus@Suspendisseseddolor.net,Grunt,,9,600000,Senior Software architect
+Kendall,id@rhoncusDonecest.ca,Gulp,,8,,
+Celeste,tellus.justo.sit@iaculisenim.org,Test automation,,10,200000,Junior Tester
+Quemby,faucibus.lectus.a@purusgravidasagittis.co.uk,,,8,,
+Sierra,magna.nec.quam@conubia.ca,Unit testing,Know unit testing theory and familiar with some testing framework,2,,
+Kyla,Quisque@posuereatvelit.org,,,1,400000,DB Admin
+Janna,at@id.net,Unit testing,Know unit testing theory and familiar with some testing framework,10,,
+Sydney,lobortis.nisi.nibh@nibh.com,Java,Know Java basics til Java 8,1,600000,Senior Software architect
+Renee,amet.consectetuer@ac.edu,Unit testing,Know unit testing theory and familiar with some testing framework,5,400000,DB Admin
+Peter,lectus@consequatpurus.org,LESS,,8,,
+Tana,dapibus.gravida@eratvolutpatNulla.edu,C#,Understand .NET and familiar with C#,5,,
+Ava,tempor.arcu.Vestibulum@non.edu,MS build,,8,,
+Farrah,Curabitur.egestas.nunc@fringilla.ca,MS SQL,Know characteristics of MS SQL,8,,
+Kylan,nunc@dolor.edu,C#,Understand .NET and familiar with C#,2,500000,Software architect
+Audra,enim.nec@Aliquamgravida.com,Test automation,,3,,
+Zenia,Duis@interdumenimnon.com,MS SQL,Know characteristics of MS SQL,1,500000,Software architect
+Alika,eget.ipsum.Suspendisse@vel.net,OOP,Strong basics in Object Oriented Programming,2,,
+Kermit,congue.elit@pedenecante.co.uk,,,8,400000,DB Admin
+Shay,Morbi.metus.Vivamus@tincidunt.edu,MySQL,Know characteristics of MySQL,1,400000,DB Admin
